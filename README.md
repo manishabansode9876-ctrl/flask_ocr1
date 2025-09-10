@@ -1,6 +1,10 @@
 # Flask OCR App
 
 This project is a simple web application built with Flask that allows users to upload images and extract text from them using Optical Character Recognition (OCR).
+🚀 My Flask + ML Projects  
+🔗 Projects Portfolio  
+  
+- [OCR Flask App](https://github.com/manishabansode9876-ctrl/flask_ocr1)
 
 ## Features
 
@@ -69,4 +73,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-- Your Name
+- Manisha.S
